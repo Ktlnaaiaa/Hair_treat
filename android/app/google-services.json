@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "521224848312",
+    "project_id": "hair-treat-drochia",
+    "storage_bucket": "hair-treat-drochia.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:521224848312:android:1c86cc6f99187c2594c54d",
+        "android_client_info": {
+          "package_name": "com.example.hair_treat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoW-avwoJ6wRIqQzorGtDYbJnIRBoNW-k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:521224848312:android:6898df38fb3424e994c54d",
+        "android_client_info": {
+          "package_name": "hair_treat.drochia"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoW-avwoJ6wRIqQzorGtDYbJnIRBoNW-k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
